@@ -1,4 +1,4 @@
-# kickstarter-anaylisis
+# Kickstarter-Anaylisis
 Performing analysis with excel pivot tables to uncover trends and insights on the kickstart funding of theater plays.
 
 ## Overview of Project:
